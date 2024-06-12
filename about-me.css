@@ -21,7 +21,7 @@
   */
   body {
     display: grid;
-    grid-template: 4em 950px 1em 1fr 3em 7em / 1em 1fr 1em;
+    grid-template: 4em 0.7fr 1em 1fr 3em 7em / 1em 1fr 1em;
     grid-template-areas: 
       ".... navi ...."
       ".... text ...."
